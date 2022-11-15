@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "8974563257",
+      "company": "Wipro"
+    },
+    {
+      "id": 2,
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "8795463258",
+      "company": "Celetel"
+    },
+    {
+      "username": "fasialsdma",
+      "email": "dkmsda@dla.com",
+      "phone": "6456186516",
+      "company": "dkandjaed",
+      "id": 3
+    },
+    {
+      "username": "fkasmfajkn",
+      "email": "dlsamkdna@dma.dsaodm",
+      "phone": "8721531515",
+      "company": "dasd",
+      "id": 4
+    }
+  ]
+}
